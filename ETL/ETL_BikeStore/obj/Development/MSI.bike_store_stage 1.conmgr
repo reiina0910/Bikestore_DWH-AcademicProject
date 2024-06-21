@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MSI.bike_store_stage 1"
+  DTS:DTSID="{26480716-9842-4C60-AF01-9AEA37A806A1}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=MSI;Initial Catalog=bike_store_stage;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-ETL_BikeStore-{26480716-9842-4C60-AF01-9AEA37A806A1}MSI.bike_store_stage 1;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
